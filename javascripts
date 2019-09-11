@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+    <img src="http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/csc106_banner.jpg">
+
+        <table cellspace="40">
+
+            <tbody>
+
+                <tr>
+
+                    <td> <img src="http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/home.png"> </td>
+
+                    <td> <img src="http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/javascripts.png"> </td>
+
+                    <td> <img src="http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/apps.png"> </td>
+
+                    <td> <img src="http://students.cs.uri.edu/~forensics/courses/CSC106/assignments/portfolio_example/about.png"> </td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <title><Ryans Portfolio</title>
+
+    </head>
+
+    <body>
+
+        <h1> Ryan's Javascript Programs </h1>
+
+    
+
+        <p> This page contains the resources to my javascript apps that were written and coded fully using the tools from khan academy. 
+        
+
+    </body>
+
+</html>
